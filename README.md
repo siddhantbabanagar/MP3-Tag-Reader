@@ -39,6 +39,15 @@ Allows modification of individual tags using command-line options while preservi
 <img width="887" height="247" alt="image" src="https://github.com/user-attachments/assets/f8ac78d0-ff24-44d1-a752-ffa1cfd8e4d1" />
 <img width="892" height="283" alt="image" src="https://github.com/user-attachments/assets/3385db5f-76e2-474d-855b-901105a61f21" />
 
+---
+
+## 👨‍💻 Author
+
+**Siddhant Babanagar**
+🎓 Electronics & Telecommunication Engineer (2025)
+💡 Interested in Embedded Systems & Low-Level Programming
+
+---
 
 ## ▶ How to Run
 ```bash
